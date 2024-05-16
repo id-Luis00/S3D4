@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin: 2em;
+    background-color: rgba(19,19,52,255) ;
+    color: white;
+}
+
+.container {
+    background-color: rgba(12,11,29,255);
+    border-radius: 10px 50px;
+}
+
+.casella {
+    display:inline-block;
+    margin: 0;
+    padding: 0 23px;
+    border-radius: 10px;
+    background-color: rgba(122,64,138,255);
+}
+
+.casella button {
+    
+}
